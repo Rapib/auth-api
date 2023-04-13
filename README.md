@@ -143,4 +143,4 @@ The provided server works to support the above requirements, but it has a few pr
 
 ### Assignment Submission Instructions
 
-Refer to the the [Submitting Express Server Lab Submission Instructions](../../../reference/submission-instructions/labs/express-servers.md) for the complete lab submission process and expectations.
+![uml](lab8.jpg)
